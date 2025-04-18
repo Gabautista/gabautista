@@ -1,10 +1,11 @@
- Hi everyone 👋 Welcome to my profile!!
- 
+<div><a href="https://media0.giphy.com/media/MAnv0v03ZSh4OtcXTs/giphy.gif?cid=6c09b9523x6qej6zd0hmlzg8nnibdvsvnjmufma30xp9hhww&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+  <img src="https://media0.giphy.com/media/MAnv0v03ZSh4OtcXTs/giphy.gif?cid=6c09b9523x6qej6zd0hmlzg8nnibdvsvnjmufma30xp9hhww&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado" width="250"></div>
+</a>
 <div>
+ Hi everyone 👋 Welcome to my profile!! <br>
     🎓I'm currently studying Cyber Security - 1st semester.<br>
     ⚒️Finishing my Mechatronics technician course.<br>
-    💍Fiancée of @SirHideki - I love u honey ❤️‍🔥
-</div>
+    💍Fiancée of @SirHideki - I love u honey ❤️‍🔥</div>
 
   
 
