@@ -18,6 +18,14 @@
 </a>
  <a href="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="32">
+</a><a href="https://github.com/Gabautista">
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Ícone Python" width="30" style="margin-right: 10px;">
+</a>
+<a href="https://github.com/Gabautista">
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Ícone JavaScript" width="30" style="margin-right: 10px;">
+</a>
+<a href="https://github.com/Gabautista">
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="Ícone CSS3" width="30">
 </a></div>
 
 <div><a href="https://www.linkedin.com/in/gabrielavieirabautista">
