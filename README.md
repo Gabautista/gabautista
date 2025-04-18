@@ -7,5 +7,5 @@
 💍Fiancée of @SirHideki
 
 <div>
-  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=dark"
+  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=transparent"
 </div>
