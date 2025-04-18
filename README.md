@@ -1,6 +1,6 @@
  Hi everyone 👋 Welcome to my profile!!
  
-🎓I'm currently studying cyber Security - 1st semester.
+🎓I'm currently studying Cyber Security - 1st semester.
 
 ⚒️Finishing my Mechatronics technician course.
 
