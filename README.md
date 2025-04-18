@@ -30,6 +30,10 @@
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="30">
 </a></div>
 
+
+<div><I>click the buttons below to connect with me.</I></div>
+
+
 <div><a href="https://www.linkedin.com/in/gabrielavieirabautista">
   <a href="https://www.linkedin.com/in/gabrielavieirabautista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a><a href="mailto:gabriela.vie.bautista@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
