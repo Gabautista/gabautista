@@ -4,7 +4,7 @@
 
 ⚒️Finishing my Mechatronics technician course.
 
-💍Fiancée of @SirHideki
+💍Fiancée of @SirHideki - I love u honey ❤️‍🔥
 
 <div>
   <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=transparent"
