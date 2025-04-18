@@ -27,7 +27,7 @@
 <a href="https://github.com/Gabautista">
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="Ícone CSS3" width="30">
 </a><a href="https://github.com/Gabautista">
-  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="Ícone Linux" width="30">
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="30">
 </a></div>
 
 <div><a href="https://www.linkedin.com/in/gabrielavieirabautista">
