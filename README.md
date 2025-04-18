@@ -13,7 +13,9 @@
   <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon"
 </div>
 
-<div>
+<div><a href="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
+  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="32" style="filter: drop-shadow(2px 2px 3px #888);">
+</a>
  <a href="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="32">
 </a></div>
