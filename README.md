@@ -10,8 +10,9 @@
   
 
 <div>
-  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon"
-</div>
+  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon"<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon">
+</a></div>
 
 <div><a href="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="32" style="filter: drop-shadow(2px 2px 3px #888);">
