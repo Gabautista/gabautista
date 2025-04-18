@@ -21,7 +21,9 @@
 </a></div>
 
 <div><a href="https://www.linkedin.com/in/gabrielavieirabautista">
-  <a href="https://www.linkedin.com/in/gabrielavieirabautista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a></a></div>
+  <a href="https://www.linkedin.com/in/gabrielavieirabautista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a><a href="mailto:gabriela.vie.bautista@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a></div>
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://media1.giphy.com/media/IIAUz2wie4gV1a1LdN/giphy.gif?cid=6c09b952gvqqc9aiop24h7xstsdm1u475q93y1aqpnxaeri8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado 1" width="130" style="margin-right: 20px;">
