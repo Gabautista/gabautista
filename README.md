@@ -10,8 +10,13 @@
 
   
 
-<div><a><img  heigt="200cm" width="200" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon"<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200cm" width="200" alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon">
-</a></div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="max-width:100%; height:auto;" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="max-width:100%; height:auto;" alt="Cartão de Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon" />
+  </a>
 
 <div><a href="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="32" style="filter: drop-shadow(2px 2px 3px #888);">
