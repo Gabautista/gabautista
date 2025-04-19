@@ -10,7 +10,7 @@
 
   
 
-<div><a><img  heigt="120cm" weight="80" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon"<a href="https://github.com/anuraghazra/github-readme-stats"><img height="120cm" weight="80" alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon">
+<div><a><img  heigt="120cm" width="80" src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon"<a href="https://github.com/anuraghazra/github-readme-stats"><img height="120cm" width="80" alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon">
 </a></div>
 
 <div><a href="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
