@@ -52,4 +52,4 @@
 </div>
 
 
-![Snake animation](https://github.com/Gabautista/Gabautista/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gabautista/gabautista/blob/output/github-contribution-grid-snake.svg)
