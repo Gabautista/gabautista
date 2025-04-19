@@ -50,3 +50,6 @@
     <img src="https://media0.giphy.com/media/3ohs7JG6cq7EWesFcQ/giphy.gif?cid=6c09b9528gdd4h2uv22tw6zpmkvyffj6a10s3dgwbr29nza9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado 2" width="150">
   </a>
 </div>
+
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
