@@ -46,3 +46,4 @@
   </a>
 </div>
 
+![snake gif](https://github.com/Gbautista/gbautista/blob/output/github-contribution-grid-snake.svg)
