@@ -46,6 +46,6 @@
   </a>
 </div>
 
-![Gráfico de Contribuições Pac-Man](https://github.com/Gabautista/Gabautista/blob/main/pacman-contribution-graph.svg)
+![Gráfico de Contribuições Pac-Man](https://github.com/Gabautista/gabautista/blob/main/pacman-contribution-graph.svg)
 
 _gerado com [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
