@@ -3,7 +3,6 @@
 <div>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
     ⚒️ Finishing my Mechatronics technician course.<br>
-    💍 Fiancée of @SirHideki - I love u honey ❤️‍🔥
   </div>
 <br>
 
