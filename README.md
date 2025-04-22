@@ -1,16 +1,13 @@
-<div style="display:flex;align-items:center;margin-bottom:20px">
-  <a href="https://media0.giphy.com/media/MAnv0v03ZSh4OtcXTs/giphy.gif?cid=6c09b9523x6qej6zd0hmlzg8nnibdvsvnjmufma30xp9hhww&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" style="margin-right:20px">
-    <img src="https://media0.giphy.com/media/MAnv0v03ZSh4OtcXTs/giphy.gif?cid=6c09b9523x6qej6zd0hmlzg8nnibdvsvnjmufma30xp9hhww&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado" width="250">
-  </a>
-  <div>
-    <b>Hi everyone 👋 Welcome to my profile!!</b><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=C71ACF&width=435&lines=Hello%2C+I'm+Gabriela+-+Welcome!)](https://git.io/typing-svg)
+<hr>
+<div>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
     ⚒️ Finishing my Mechatronics technician course.<br>
     💍 Fiancée of @SirHideki - I love u honey ❤️‍🔥
   </div>
-</div>
+<br>
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:10px;margin-bottom:20px">
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon" alt="Estatísticas do GitHub" style="max-width:100%;height:auto">
   </a>
@@ -18,16 +15,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon" alt="Cartão de Top Linguagens" style="max-width:100%;height:auto">
   </a>
 </div>
-
+<hr>
 <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;margin-bottom:20px">
-  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="32" style="filter:drop-shadow(2px 2px 3px #888);margin:5px">
-  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="32" style="margin:5px">
-  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Ícone Python" width="30" style="margin:5px">
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Ícone JavaScript" width="30" style="margin:5px">
-  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="Ícone CSS3" width="30" style="margin:5px">
-  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="30" style="margin:5px">
+  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="40" style="filter:drop-shadow(2px 2px 3px #888);margin:5px">
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Ícone Python" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Ícone JavaScript" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="Ícone CSS3" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="40" style="margin:5px">
 </div>
-
+<hr>
 <p style="text-align:center;font-style:italic;margin-bottom:10px">click the buttons below to connect with me.</p>
 
 <div style="display:flex;justify-content:center;align-items:center;margin-bottom:20px">
