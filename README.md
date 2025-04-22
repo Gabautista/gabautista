@@ -45,7 +45,7 @@
     <img src="https://media0.giphy.com/media/3ohs7JG6cq7EWesFcQ/giphy.gif?cid=6c09b9528gdd4h2uv22tw6zpmkvyffj6a10s3dgwbr29nza9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado 2" width="150">
   </a>
 </div>
-
+<hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabautista/gabautista/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabautista/gabautista/output/pacman-contribution-graph.svg">
