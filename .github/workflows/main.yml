@@ -1,0 +1,24 @@
+name: generate pacman game
+
+on:
+  schedule: # run automatically every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # allows to manually run the job at any time
+  push: # run on every push on the master branch
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name:Gabautista ${{ github.repository_owner }}
+
+      # push the content of
