@@ -1,31 +1,31 @@
-name: Generate Pacman Contribution Graph
+name: generate pacman game
 
 on:
-  schedule:
-    - cron: '0 */24 * * *' # Executa uma vez por dia (à meia-noite UTC)
-  workflow_dispatch: # Permite executar manualmente pela aba Actions
-  push:
+  schedule: # Run automatically every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
     branches:
-      - main # Executa em pushes na branch principal (você pode ajustar)
+      - main
 
 jobs:
   generate:
     permissions:
-      contents: write # Permite que o workflow escreva no repositório
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate pacman-contribution-graph.svg
+      - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Gabautista 
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      # Push the generated SVG to the output branch
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          commit_message: 'Atualizar gráfico de contribuições Pac-Man'
-          file_pattern: pacman-contribution-graph.svg
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
