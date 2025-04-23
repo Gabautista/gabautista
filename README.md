@@ -27,13 +27,17 @@
 <hr>
 <p style="text-align:center;font-style:italic;margin-bottom:10px">click the buttons below to connect with me.</p>
 
-<div style="display:flex;justify-content:center;align-items:center;margin-bottom:20px">
-  <a href="https://www.linkedin.com/in/gabrielavieirabautista" target="_blank" style="margin-right:10px">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gabriela.vie.bautista@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <div style="display:flex;justify-content:center;align-items:center;margin-top:20px">
+    <a href="https://www.linkedin.com/in/gabrielavieirabautista" target="_blank" style="margin-right:10px">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:gabriela.vie.bautista@gmail.com" style="margin-right:10px">
+      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="SEU_LINK_DO_DISCORD" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </div>
 </div>
 
 <div style="display:flex;align-items:flex-start;justify-content:center;margin-bottom:20px">
