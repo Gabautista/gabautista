@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5001&pause=1000&color=C71ACF&width=435&lines=Hello+I'm+Gabriela+Bautista;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <hr>
+<div align="center">
+  <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=6c09b952ytfxc0uwz6o0ypdup7h1e7v8dakljcstqnolmz0k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado 1">
+</div>
 <div>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
     ⚒️ Finishing my Mechatronics technician course.<br>
