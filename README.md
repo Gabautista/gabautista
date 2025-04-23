@@ -22,6 +22,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=tokyonight" alt="Cartão de Top Linguagens" style="max-width:100%;height:auto">
     </a>
+    <br>
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabautista&theme=tokyonight" alt="Card de Detalhes do Perfil"/>
 </div>
