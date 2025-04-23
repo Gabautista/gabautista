@@ -13,7 +13,7 @@
   </div>
 </div>
 <br>
-<h2>Skills</h2>
+<div align="center"><h2>Skills</h2></div>
 <div align="center">
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,8 +26,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabautista&theme=tokyonight" alt="Card de Detalhes do Perfil"/>
 </div>
 <hr>
-<h2>knowledge</h2>
-<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;margin-bottom:20px">
+<div align="center"><h2>knowledge</h2></div>
+<div align="center" margin-bottom:20px">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Ícone C++" width="40" style="filter:drop-shadow(2px 2px 3px #888);margin:5px">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="40" style="margin:5px">
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Ícone Python" width="40" style="margin:5px">
