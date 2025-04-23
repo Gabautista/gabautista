@@ -10,10 +10,10 @@
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=neon" alt="Estatísticas do GitHub" style="max-width:100%;height:auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" style="max-width:100%;height:auto">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=neon" alt="Cartão de Top Linguagens" style="max-width:100%;height:auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabautista&theme=midnight-purple" alt="Cartão de Top Linguagens" style="max-width:100%;height:auto">
   </a>
 </div>
 <hr>
