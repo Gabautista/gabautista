@@ -7,6 +7,7 @@
   <div>
     <h2>About me:</h2>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
+    ⤷Networking,social engineering, tools... <br>
     ⚒️ Finishing my Mechatronics technician course.<br>
     🐱 I'm 20 years old and I love Cats. <br>
     💍 @SirHideki's fiancée
