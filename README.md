@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=C71ACF&width=435&lines=Hello%2C+I'm+Gabriela+-+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5001&pause=1000&color=C71ACF&width=435&lines=Hello+I'm+Gabriela+Bautista;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <hr>
 <div>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
