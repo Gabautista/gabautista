@@ -34,9 +34,9 @@
     <a href="mailto:gabriela.vie.bautista@gmail.com" style="margin-right:10px">
       <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="[SEU_LINK_DO_DISCORD](https://discord.com/users/1327802393899040798)" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
+    <a href="https://discord.com/users/1327802393899040798" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
   </div>
 </div>
 
