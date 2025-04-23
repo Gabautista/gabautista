@@ -34,7 +34,7 @@
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="40" style="margin:5px">
 </div>
 <hr>
-<h2>Contate-me</h2>
+<h2>contact me</h2>
 <p style="text-align:center;font-style:italic;margin-bottom:10px">click the buttons below to connect with me.</p>
 
   <div style="display:flex;justify-content:center;align-items:center;margin-top:20px">
