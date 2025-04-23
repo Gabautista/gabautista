@@ -3,12 +3,14 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=6c09b952ytfxc0uwz6o0ypdup7h1e7v8dakljcstqnolmz0k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF Animado 1">
 </div>
-<div>
+<div style="text-align: justify; display: flex; justify-content: center;">
+  <div>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
     ⚒️ Finishing my Mechatronics technician course.<br>
     🐱 I'm 20 years old and I love Cats. <br>
     💍 @SirHideki's fiancée
   </div>
+</div>
 <br>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
