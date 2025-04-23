@@ -3,7 +3,7 @@
 <div>
     🎓 I'm currently studying Cyber Security - 1st semester.<br>
     ⚒️ Finishing my Mechatronics technician course.<br>
-    🐱 I'm 20 years old and I love Cats. 
+    🐱 I'm 20 years old and I love Cats. <br>
     💍 Engagement with @SirHideki
   </div>
 <br>
