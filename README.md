@@ -14,7 +14,7 @@
   </div>
 </div>
 <br>
-
+<h2>Skills</h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Gabautista&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" style="max-width:100%;height:auto">
@@ -24,6 +24,7 @@
   </a>
 </div>
 <hr>
+<h2>knowledge</h2>
 <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;margin-bottom:20px">
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="40" style="filter:drop-shadow(2px 2px 3px #888);margin:5px">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="40" style="margin:5px">
@@ -33,6 +34,7 @@
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="40" style="margin:5px">
 </div>
 <hr>
+<h2>Contate-me</h2>
 <p style="text-align:center;font-style:italic;margin-bottom:10px">click the buttons below to connect with me.</p>
 
   <div style="display:flex;justify-content:center;align-items:center;margin-top:20px">
