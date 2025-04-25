@@ -54,10 +54,13 @@
   <a href="mailto:gabriela.vie.bautista@gmail.com" style="margin-right:10px">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://discord.com/users/1327802393899040798" target="_blank">
+  <a href="https://discord.com/users/1327802393899040798" target="_blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</div>
+  <a href="https://www.notion.so/Site-pessoal-d43437a60e544deb8ba46c66ac3f8365?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </a>
+  </div>
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabautista/gabautista/output/pacman-contribution-graph-dark.svg">
