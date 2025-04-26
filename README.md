@@ -7,7 +7,7 @@
   <div>
     <h2>About me:</h2>
      <img src="https://cdn-icons-png.flaticon.com/512/15664/15664269.png" alt="Ícone C++" width="20" style="filter:drop-shadow(2px 2px 3px #888);margin:5px"> I'm currently studying Cyber Security - 1st semester.<br>
-    ⤷Networking, social engineering, tools, security... <br>
+    ⤷Networking, social engineering, tools, security, on premises, cloud... <br>
    <img src="https://cdn-icons-png.flaticon.com/512/11260/11260831.png" alt="Ícone C" width="20" style="margin:5px"> Finishing my Mechatronics technician course.<br>
     <img src="https://cdn-icons-png.flaticon.com/512/146/146457.png" alt="Ícone C++" width="20" style="filter:drop-shadow(2px 2px 3px #888);margin:5px"> @SirHideki's fiancée
   </div>
